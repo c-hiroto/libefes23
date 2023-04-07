@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/libefes23/static/css/main.073c9b0a.css",
+    "main.js": "/libefes23/static/js/main.8447f329.js",
+    "static/js/787.1afa97ff.chunk.js": "/libefes23/static/js/787.1afa97ff.chunk.js",
+    "static/media/logo.svg": "/libefes23/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/libefes23/index.html",
+    "main.073c9b0a.css.map": "/libefes23/static/css/main.073c9b0a.css.map",
+    "main.8447f329.js.map": "/libefes23/static/js/main.8447f329.js.map",
+    "787.1afa97ff.chunk.js.map": "/libefes23/static/js/787.1afa97ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8447f329.js"
+  ]
+}
